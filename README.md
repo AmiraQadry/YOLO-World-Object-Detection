@@ -1,5 +1,5 @@
 # YOLO-World Object Detection
-![Yolo-World Logo](https://user-images.githubusercontent.com/your_logo.png)
+![Yolo-World Logo](https://www.yoloworld.cc/images/banner.png)
 
 YOLO-World is a cutting-edge zero-shot object detection model that operates in real-time, leveraging an open-vocabulary framework. 
 It is optimized for speed and flexibility, making it approximately 20x faster than traditional zero-shot detectors like GroundingDINO.
